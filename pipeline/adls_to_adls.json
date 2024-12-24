@@ -1,9 +1,0 @@
-{
-	"name": "adls_to_adls",
-	"properties": {
-		"folder": {
-			"name": "Demo"
-		},
-		"annotations": []
-	}
-}
